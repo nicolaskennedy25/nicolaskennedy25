@@ -1,14 +1,11 @@
 <div align="center">
 
-<img src="https://i.imgur.com/xxxxxxx.png" width="280"/>
 
 # 👋 Hola, soy Nicolas Kennedy
 ### 💻 Ingeniero en Software
 📍 Valle del Cauca, Colombia
 
-![Visitas](https://komarev.com/ghpvc/?username=nicolaskennedy25&color=0078ff&style=for-the-badge)
 
----
 
 ## 🛠️ Tecnologías
 
@@ -38,14 +35,6 @@
 
 ---
 
-## 📊 Estadísticas
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nicolaskennedy25&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaskennedy25&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=nicolaskennedy25&theme=tokyonight&hide_border=true)
-
----
 
 ## 🌐 Conecta conmigo
 
