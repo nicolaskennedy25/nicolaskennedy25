@@ -26,13 +26,6 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
-
-- 🔭 Trabajando en proyectos web
-- 🌱 Siempre aprendiendo nuevas tecnologías
-- 💬 Pregúntame sobre **JavaScript**, **PHP** o **Java**
-- 📫 Contáctame: **tu@email.com**
-
 ---
 
 
