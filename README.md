@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="github_banner_nicolas.png" alt="Nicolas Kennedy Banner" width="100%"/>
 
 ---
 
